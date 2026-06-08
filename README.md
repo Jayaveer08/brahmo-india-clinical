@@ -130,7 +130,6 @@ Adding a new specialty should require adding data rows, not redesigning the app.
 
 Do not commit `.env.local`.
 
-This repository includes `.env.local.example` only. Real keys must stay in `.env.local`, which is ignored by git through the `*.local` rule in `.gitignore`.
 
 ## Clinical Disclaimer
 
