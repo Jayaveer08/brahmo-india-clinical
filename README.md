@@ -2,7 +2,6 @@
 
 Clinical AI context assembly demo for Indian doctors, covering Type 2 Diabetes Mellitus and Cardiovascular Disease. The system pre-loads patient-specific context, Indian guidelines, drug brands, prices, renal dosing, contraindications, and interaction checks before the doctor asks a question.
 
-This is an Option C assessment build for BRAHMO / Astroum AI.
 
 ## Live Demo
 
