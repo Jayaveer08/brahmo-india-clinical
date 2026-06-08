@@ -4,6 +4,10 @@ Clinical AI context assembly demo for Indian doctors, covering Type 2 Diabetes M
 
 This is an Option C assessment build for BRAHMO / Astroum AI.
 
+## Live Demo
+
+https://brahmo-india-clinical-silk.vercel.app
+
 ## Features
 
 - Dashboard for clinical overview and high-risk patients.
